@@ -12,5 +12,6 @@ public class Application2 {
         System.out.println(123 + 456);
         System.out.println(123 );
         //
+        //
     }
 }
